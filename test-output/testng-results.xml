@@ -2,24 +2,24 @@
 <testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
   <reporter-output>
   </reporter-output>
-  <suite name="Default suite" duration-ms="8892" started-at="2018-02-20T02:27:45Z" finished-at="2018-02-20T02:27:54Z">
+  <suite name="Suite" duration-ms="8113" started-at="2018-02-20T20:57:06Z" finished-at="2018-02-20T20:57:14Z">
     <groups>
     </groups>
-    <test name="Default test" duration-ms="8892" started-at="2018-02-20T02:27:45Z" finished-at="2018-02-20T02:27:54Z">
+    <test name="Test" duration-ms="8113" started-at="2018-02-20T20:57:06Z" finished-at="2018-02-20T20:57:14Z">
       <class name="jenkins_Git_demo.Selenimum_Jenkins_integration">
-        <test-method status="PASS" signature="setUp()[pri:0, instance:jenkins_Git_demo.Selenimum_Jenkins_integration@724af044]" name="setUp" is-config="true" duration-ms="5444" started-at="2018-02-20T02:27:45Z" finished-at="2018-02-20T02:27:50Z">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:jenkins_Git_demo.Selenimum_Jenkins_integration@6b4a4e18]" name="setUp" is-config="true" duration-ms="5198" started-at="2018-02-20T20:57:06Z" finished-at="2018-02-20T20:57:11Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setUp -->
-        <test-method status="PASS" signature="test()[pri:0, instance:jenkins_Git_demo.Selenimum_Jenkins_integration@724af044]" name="test" duration-ms="2555" started-at="2018-02-20T02:27:50Z" finished-at="2018-02-20T02:27:53Z">
+        <test-method status="PASS" signature="test()[pri:0, instance:jenkins_Git_demo.Selenimum_Jenkins_integration@6b4a4e18]" name="test" duration-ms="2069" started-at="2018-02-20T20:57:11Z" finished-at="2018-02-20T20:57:14Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- test -->
-        <test-method status="PASS" signature="tearDown()[pri:0, instance:jenkins_Git_demo.Selenimum_Jenkins_integration@724af044]" name="tearDown" is-config="true" duration-ms="850" started-at="2018-02-20T02:27:53Z" finished-at="2018-02-20T02:27:54Z">
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:jenkins_Git_demo.Selenimum_Jenkins_integration@6b4a4e18]" name="tearDown" is-config="true" duration-ms="799" started-at="2018-02-20T20:57:14Z" finished-at="2018-02-20T20:57:14Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- tearDown -->
       </class> <!-- jenkins_Git_demo.Selenimum_Jenkins_integration -->
-    </test> <!-- Default test -->
-  </suite> <!-- Default suite -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
 </testng-results>
